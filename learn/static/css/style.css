@@ -1,0 +1,15 @@
+body {
+    background-color: yellow;  /* Light gray background */
+    font-family: Arial, sans-serif;  /* Fallback font for Arial */
+    margin: 20px;  /* Add 20px margin around the body */
+  }
+  
+  h1 {
+    color: #333;  /* Text color for headings */
+    font-size: 2em;  /* Make headings twice the size of normal text */
+    margin-bottom: 10px;  /* Add some space below headings */
+  }
+  
+  p {
+    line-height: 1.5;  /* Increase line spacing for better readability */
+  }
